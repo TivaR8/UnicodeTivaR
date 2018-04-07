@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\bin\Debug\UnicodeTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\bin\Debug\UnicodeTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\bin\Debug\UnicodeTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\obj\Debug\UnicodeTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\obj\Debug\UnicodeTivaR.frmUnicode.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\obj\Debug\UnicodeTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\obj\Debug\UnicodeTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\obj\Debug\UnicodeTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\obj\Debug\UnicodeTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\UnicodeTivaR\UnicodeTivaR\obj\Debug\UnicodeTivaR.pdb
